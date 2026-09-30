@@ -1,4 +1,4 @@
-const API_BASE = 'https://cipher-assignment.onrender.com';
+const API_BASE = 'https://lld-practice-platform-i8pb.onrender.com';
 
 export interface Criterion {
   id: string;
